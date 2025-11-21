@@ -1,0 +1,12 @@
+# Для C#
+bin/
+obj/
+.vs/
+
+# Для Go
+*.exe
+*.dll
+
+# Общее
+.idea/
+.vscode/
